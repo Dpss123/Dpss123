@@ -46,7 +46,6 @@
 Tech Stack  
 `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit`
 
---
 
 ### 📈 Marketing ROI Analytics Dashboard
 - Designed analytics solution to evaluate **influencer marketing campaigns**
@@ -56,7 +55,6 @@ Tech Stack
 Tech Stack  
 `Python` `Pandas` `NumPy` `Plotly` `Matplotlib`
 
---
 
 ### 🎯 Personalized Recommendation System
 - Built recommendation engine using **similarity algorithms**
@@ -65,7 +63,7 @@ Tech Stack
 Tech Stack  
 `Python` `Scikit-learn` `Cosine Similarity`
 
---
+
 
 ### 🔒 AI Powered Document Privacy Automation
 - Developed system to **detect and redact sensitive information**
@@ -107,7 +105,7 @@ Tech Stack
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 
---
+
 
 ### Data Science
 
@@ -116,7 +114,6 @@ Tech Stack
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
---
 
 ### Machine Learning / AI
 
@@ -125,7 +122,7 @@ Tech Stack
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
---
+
 
 ### Tools
 
